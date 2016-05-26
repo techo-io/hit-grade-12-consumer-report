@@ -9,6 +9,6 @@ File naming convention is *Name*-[F/M]-*Department*-*Student ID*_*Start Date*-*E
 
 Joint research by [AustinChou](https://github.com/AustinChou) and [ylxdzsw](https://github.com/ylxdzsw).
 
-# By Projects
+# By-projects
 
 - [watch-your-m0n1y](https://github.com/AustinChou/watch-your-m0n1y)
