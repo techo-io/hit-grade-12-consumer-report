@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-c3f6757b-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-c3f6757b-2">
+    <text x="81.84" y="89.99" text-anchor="middle" dy="0.6em">dayofweek</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-c3f6757b-3">
+    <text x="18.28" y="83.32" text-anchor="middle" dy="0.6em">Mon</text>
+    <text x="39.47" y="83.32" text-anchor="middle" dy="0.6em">Tue</text>
+    <text x="60.66" y="83.32" text-anchor="middle" dy="0.6em">Wed</text>
+    <text x="81.84" y="83.32" text-anchor="middle" dy="0.6em">Thu</text>
+    <text x="103.03" y="83.32" text-anchor="middle" dy="0.6em">Fri</text>
+    <text x="124.21" y="83.32" text-anchor="middle" dy="0.6em">Sat</text>
+    <text x="145.4" y="83.32" text-anchor="middle" dy="0.6em">Sun</text>
+  </g>
+<g clip-path="url(#img-c3f6757b-4)">
+  <g id="img-c3f6757b-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-c3f6757b-6">
+      <rect x="16.28" y="12.61" width="131.11" height="69.7"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-c3f6757b-7">
+      <path fill="none" d="M16.28,80.32 L 147.4 80.32"/>
+      <path fill="none" d="M16.28,63.89 L 147.4 63.89"/>
+      <path fill="none" d="M16.28,47.46 L 147.4 47.46"/>
+      <path fill="none" d="M16.28,31.04 L 147.4 31.04"/>
+      <path fill="none" d="M16.28,14.61 L 147.4 14.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-c3f6757b-8">
+      <path fill="none" d="M18.28,12.61 L 18.28 82.32"/>
+      <path fill="none" d="M39.47,12.61 L 39.47 82.32"/>
+      <path fill="none" d="M60.66,12.61 L 60.66 82.32"/>
+      <path fill="none" d="M81.84,12.61 L 81.84 82.32"/>
+      <path fill="none" d="M103.03,12.61 L 103.03 82.32"/>
+      <path fill="none" d="M124.21,12.61 L 124.21 82.32"/>
+      <path fill="none" d="M145.4,12.61 L 145.4 82.32"/>
+    </g>
+    <g class="plotpanel" id="img-c3f6757b-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-c3f6757b-10">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#00BFFF" class="geometry" id="img-c3f6757b-11">
+          <rect x="114.62" y="31.04" width="19.19" height="49.28"/>
+          <rect x="51.06" y="31.04" width="19.19" height="49.28"/>
+          <rect x="29.88" y="14.61" width="19.19" height="65.7"/>
+          <rect x="72.25" y="47.46" width="19.19" height="32.85"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-c3f6757b-12">
+    <text x="15.28" y="80.32" text-anchor="end" dy="0.35em">0</text>
+    <text x="15.28" y="63.89" text-anchor="end" dy="0.35em">1</text>
+    <text x="15.28" y="47.46" text-anchor="end" dy="0.35em">2</text>
+    <text x="15.28" y="31.04" text-anchor="end" dy="0.35em">3</text>
+    <text x="15.28" y="14.61" text-anchor="end" dy="0.35em">4</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-c3f6757b-13">
+    <text x="8.81" y="45.46" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 47.46)">count_sum</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-c3f6757b-14">
+    <text x="81.84" y="10.61" text-anchor="middle">补助发放次数 ~ 周几</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-c3f6757b-4">
+  <path d="M16.28,12.61 L 147.4 12.61 147.4 82.32 16.28 82.32" />
+</clipPath>
+</defs>
+</svg>

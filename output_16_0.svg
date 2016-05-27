@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-3c9b1e59-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-3c9b1e59-2">
+    <text x="83.52" y="89.99" text-anchor="middle" dy="0.6em">gender</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-3c9b1e59-3">
+    <text x="51.57" y="83.32" text-anchor="middle" dy="0.6em">F</text>
+    <text x="115.46" y="83.32" text-anchor="middle" dy="0.6em">M</text>
+  </g>
+<g clip-path="url(#img-3c9b1e59-4)">
+  <g id="img-3c9b1e59-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-3c9b1e59-6">
+      <rect x="19.63" y="12.61" width="127.77" height="69.7"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-3c9b1e59-7">
+      <path fill="none" d="M19.63,80.32 L 147.4 80.32"/>
+      <path fill="none" d="M19.63,58.41 L 147.4 58.41"/>
+      <path fill="none" d="M19.63,36.51 L 147.4 36.51"/>
+      <path fill="none" d="M19.63,14.61 L 147.4 14.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-3c9b1e59-8">
+      <path fill="none" d="M83.52,12.61 L 83.52 82.32"/>
+    </g>
+    <g class="plotpanel" id="img-3c9b1e59-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-3c9b1e59-10">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#00BFFF" class="geometry" id="img-3c9b1e59-11">
+          <rect x="24.63" y="32.13" width="53.88" height="48.18"/>
+          <rect x="88.52" y="22.75" width="53.88" height="57.57"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-3c9b1e59-12">
+    <text x="18.63" y="80.32" text-anchor="end" dy="0.35em">0</text>
+    <text x="18.63" y="58.41" text-anchor="end" dy="0.35em">50</text>
+    <text x="18.63" y="36.51" text-anchor="end" dy="0.35em">100</text>
+    <text x="18.63" y="14.61" text-anchor="end" dy="0.35em">150</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-3c9b1e59-13">
+    <text x="8.81" y="45.46" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 47.46)">amount_mean</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-3c9b1e59-14">
+    <text x="83.52" y="10.61" text-anchor="middle">人均补助金额 ~ 性别</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-3c9b1e59-4">
+  <path d="M19.63,12.61 L 147.4 12.61 147.4 82.32 19.63 82.32" />
+</clipPath>
+</defs>
+</svg>

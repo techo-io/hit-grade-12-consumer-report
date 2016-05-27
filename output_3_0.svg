@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-ac84c3a0-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-ac84c3a0-2">
+    <text x="82.08" y="89.99" text-anchor="middle" dy="0.6em">gender</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-ac84c3a0-3">
+    <text x="60.31" y="83.32" text-anchor="middle" dy="0.6em">M</text>
+    <text x="103.86" y="83.32" text-anchor="middle" dy="0.6em">F</text>
+  </g>
+<g clip-path="url(#img-ac84c3a0-4)">
+  <g id="img-ac84c3a0-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-ac84c3a0-6">
+      <rect x="16.77" y="12.61" width="130.63" height="69.7"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-ac84c3a0-7">
+      <path fill="none" d="M16.77,80.32 L 147.4 80.32"/>
+      <path fill="none" d="M16.77,63.89 L 147.4 63.89"/>
+      <path fill="none" d="M16.77,47.46 L 147.4 47.46"/>
+      <path fill="none" d="M16.77,31.04 L 147.4 31.04"/>
+      <path fill="none" d="M16.77,14.61 L 147.4 14.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-ac84c3a0-8">
+      <path fill="none" d="M82.08,12.61 L 82.08 82.32"/>
+    </g>
+    <g class="plotpanel" id="img-ac84c3a0-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-ac84c3a0-10">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#00BFFF" class="geometry" id="img-ac84c3a0-11">
+          <rect x="38.51" y="29.69" width="43.59" height="50.62"/>
+          <rect x="82.06" y="63.91" width="43.59" height="16.41"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-ac84c3a0-12">
+    <text x="15.77" y="80.32" text-anchor="end" dy="0.35em">0</text>
+    <text x="15.77" y="63.89" text-anchor="end" dy="0.35em">1×10³</text>
+    <text x="15.77" y="47.46" text-anchor="end" dy="0.35em">2×10³</text>
+    <text x="15.77" y="31.04" text-anchor="end" dy="0.35em">3×10³</text>
+    <text x="15.77" y="14.61" text-anchor="end" dy="0.35em">4×10³</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-ac84c3a0-13">
+    <text x="82.08" y="10.61" text-anchor="middle">gender of students</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-ac84c3a0-4">
+  <path d="M16.77,12.61 L 147.4 12.61 147.4 82.32 16.77 82.32" />
+</clipPath>
+</defs>
+</svg>

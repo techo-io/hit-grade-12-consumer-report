@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-9035eb24-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-9035eb24-2">
+    <text x="78.08" y="89.99" text-anchor="middle" dy="0.6em">position</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-9035eb24-3">
+    <text x="27.53" y="83.32" text-anchor="middle" dy="0.6em">学苑</text>
+    <text x="41.97" y="83.32" text-anchor="middle" dy="0.6em">学士</text>
+    <text x="56.41" y="83.32" text-anchor="middle" dy="0.6em">天香</text>
+    <text x="70.86" y="83.32" text-anchor="middle" dy="0.6em">清泽</text>
+    <text x="85.3" y="83.32" text-anchor="middle" dy="0.6em">锦绣</text>
+    <text x="99.74" y="83.32" text-anchor="middle" dy="0.6em">黑店</text>
+    <text x="114.19" y="83.32" text-anchor="middle" dy="0.6em">饺子园</text>
+    <text x="128.63" y="83.32" text-anchor="middle" dy="0.6em">土木</text>
+  </g>
+  <g class="guide colorkey" id="img-9035eb24-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-9035eb24-5">
+      <text x="139.66" y="47.46" dy="0.35em" id="img-9035eb24-6" class="color_F">F</text>
+      <text x="139.66" y="51.09" dy="0.35em" id="img-9035eb24-7" class="color_M">M</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-9035eb24-8">
+      <rect x="136.85" y="46.56" width="1.81" height="1.81" id="img-9035eb24-9" class="color_F" fill="#00BFFF"/>
+      <rect x="136.85" y="50.18" width="1.81" height="1.81" id="img-9035eb24-10" class="color_M" fill="#D4CA3A"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-9035eb24-11">
+      <text x="136.85" y="43.64" id="img-9035eb24-12">gender</text>
+    </g>
+  </g>
+<g clip-path="url(#img-9035eb24-13)">
+  <g id="img-9035eb24-14">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-9035eb24-15">
+      <rect x="20.31" y="12.61" width="115.54" height="69.7" id="img-9035eb24-16"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-9035eb24-17">
+      <path fill="none" d="M20.31,80.32 L 135.85 80.32" id="img-9035eb24-18"/>
+      <path fill="none" d="M20.31,63.89 L 135.85 63.89" id="img-9035eb24-19"/>
+      <path fill="none" d="M20.31,47.46 L 135.85 47.46" id="img-9035eb24-20"/>
+      <path fill="none" d="M20.31,31.04 L 135.85 31.04" id="img-9035eb24-21"/>
+      <path fill="none" d="M20.31,14.61 L 135.85 14.61" id="img-9035eb24-22"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-9035eb24-23">
+      <path fill="none" d="M34.75,12.61 L 34.75 82.32" id="img-9035eb24-24"/>
+      <path fill="none" d="M49.19,12.61 L 49.19 82.32" id="img-9035eb24-25"/>
+      <path fill="none" d="M63.63,12.61 L 63.63 82.32" id="img-9035eb24-26"/>
+      <path fill="none" d="M78.08,12.61 L 78.08 82.32" id="img-9035eb24-27"/>
+      <path fill="none" d="M92.52,12.61 L 92.52 82.32" id="img-9035eb24-28"/>
+      <path fill="none" d="M106.96,12.61 L 106.96 82.32" id="img-9035eb24-29"/>
+      <path fill="none" d="M121.41,12.61 L 121.41 82.32" id="img-9035eb24-30"/>
+    </g>
+    <g class="plotpanel" id="img-9035eb24-31">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-9035eb24-32">
+        <g stroke="#000000" stroke-opacity="0.000" class="geometry" id="img-9035eb24-33">
+          <rect x="21.31" y="38.37" width="12.44" height="41.94" id="img-9035eb24-34" fill="#D4CA3A"/>
+          <rect x="35.75" y="18.6" width="12.44" height="61.71" id="img-9035eb24-35" fill="#D4CA3A"/>
+          <rect x="50.19" y="63.44" width="12.44" height="16.87" id="img-9035eb24-36" fill="#D4CA3A"/>
+          <rect x="64.63" y="75.48" width="12.44" height="4.84" id="img-9035eb24-37" fill="#D4CA3A"/>
+          <rect x="79.08" y="77.43" width="12.44" height="2.89" id="img-9035eb24-38" fill="#D4CA3A"/>
+          <rect x="93.52" y="49.68" width="12.44" height="30.64" id="img-9035eb24-39" fill="#D4CA3A"/>
+          <rect x="107.96" y="77.32" width="12.44" height="2.99" id="img-9035eb24-40" fill="#D4CA3A"/>
+          <rect x="122.41" y="77.94" width="12.44" height="2.38" id="img-9035eb24-41" fill="#D4CA3A"/>
+          <rect x="21.31" y="-20.18" width="12.44" height="58.56" id="img-9035eb24-42" fill="#00BFFF"/>
+          <rect x="35.75" y="-35.66" width="12.44" height="54.27" id="img-9035eb24-43" fill="#00BFFF"/>
+          <rect x="50.19" y="56.41" width="12.44" height="7.03" id="img-9035eb24-44" fill="#00BFFF"/>
+          <rect x="64.63" y="68.49" width="12.44" height="6.99" id="img-9035eb24-45" fill="#00BFFF"/>
+          <rect x="79.08" y="73.79" width="12.44" height="3.64" id="img-9035eb24-46" fill="#00BFFF"/>
+          <rect x="93.52" y="32.64" width="12.44" height="17.03" id="img-9035eb24-47" fill="#00BFFF"/>
+          <rect x="107.96" y="73.39" width="12.44" height="3.93" id="img-9035eb24-48" fill="#00BFFF"/>
+          <rect x="122.41" y="65.13" width="12.44" height="12.81" id="img-9035eb24-49" fill="#00BFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-9035eb24-50">
+    <text x="19.3" y="80.32" text-anchor="end" dy="0.35em" id="img-9035eb24-51">0.00</text>
+    <text x="19.3" y="63.89" text-anchor="end" dy="0.35em" id="img-9035eb24-52">0.05</text>
+    <text x="19.3" y="47.46" text-anchor="end" dy="0.35em" id="img-9035eb24-53">0.10</text>
+    <text x="19.3" y="31.04" text-anchor="end" dy="0.35em" id="img-9035eb24-54">0.15</text>
+    <text x="19.3" y="14.61" text-anchor="end" dy="0.35em" id="img-9035eb24-55">0.20</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-9035eb24-56">
+    <text x="8.81" y="45.46" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 47.46)" id="img-9035eb24-57">ratio_sum</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-9035eb24-58">
+    <text x="78.08" y="10.61" text-anchor="middle" id="img-9035eb24-59">食堂 ~ 性别 (平衡了男女人数)</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-9035eb24-13">
+  <path d="M20.31,12.61 L 135.85 12.61 135.85 82.32 20.31 82.32" />
+</clipPath>
+</defs>
+</svg>

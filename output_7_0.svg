@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-5125e1e6-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5125e1e6-2">
+    <text x="85.89" y="89.99" text-anchor="middle" dy="0.6em">dayofweek</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-5125e1e6-3">
+    <text x="34.88" y="83.32" text-anchor="middle" dy="0.6em">Mon</text>
+    <text x="51.88" y="83.32" text-anchor="middle" dy="0.6em">Tue</text>
+    <text x="68.89" y="83.32" text-anchor="middle" dy="0.6em">Wed</text>
+    <text x="85.89" y="83.32" text-anchor="middle" dy="0.6em">Thu</text>
+    <text x="102.89" y="83.32" text-anchor="middle" dy="0.6em">Fri</text>
+    <text x="119.9" y="83.32" text-anchor="middle" dy="0.6em">Sat</text>
+    <text x="136.9" y="83.32" text-anchor="middle" dy="0.6em">Sun</text>
+  </g>
+<g clip-path="url(#img-5125e1e6-4)">
+  <g id="img-5125e1e6-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-5125e1e6-6">
+      <rect x="24.38" y="12.61" width="123.02" height="69.7"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-5125e1e6-7">
+      <path fill="none" d="M24.38,80.32 L 147.4 80.32"/>
+      <path fill="none" d="M24.38,63.89 L 147.4 63.89"/>
+      <path fill="none" d="M24.38,47.46 L 147.4 47.46"/>
+      <path fill="none" d="M24.38,31.04 L 147.4 31.04"/>
+      <path fill="none" d="M24.38,14.61 L 147.4 14.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-5125e1e6-8">
+      <path fill="none" d="M34.88,12.61 L 34.88 82.32"/>
+      <path fill="none" d="M51.88,12.61 L 51.88 82.32"/>
+      <path fill="none" d="M68.89,12.61 L 68.89 82.32"/>
+      <path fill="none" d="M85.89,12.61 L 85.89 82.32"/>
+      <path fill="none" d="M102.89,12.61 L 102.89 82.32"/>
+      <path fill="none" d="M119.9,12.61 L 119.9 82.32"/>
+      <path fill="none" d="M136.9,12.61 L 136.9 82.32"/>
+    </g>
+    <g class="plotpanel" id="img-5125e1e6-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-5125e1e6-10">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#00BFFF" class="geometry" id="img-5125e1e6-11">
+          <rect x="44.38" y="27.05" width="15" height="53.27"/>
+          <rect x="61.38" y="32.53" width="15" height="47.78"/>
+          <rect x="27.38" y="32.6" width="15" height="47.72"/>
+          <rect x="78.39" y="33.83" width="15" height="46.49"/>
+          <rect x="129.4" y="51.14" width="15" height="29.17"/>
+          <rect x="95.39" y="35.6" width="15" height="44.71"/>
+          <rect x="112.39" y="43.55" width="15" height="36.76"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-5125e1e6-12">
+    <text x="23.38" y="80.32" text-anchor="end" dy="0.35em">0</text>
+    <text x="23.38" y="63.89" text-anchor="end" dy="0.35em">1×10³</text>
+    <text x="23.38" y="47.46" text-anchor="end" dy="0.35em">2×10³</text>
+    <text x="23.38" y="31.04" text-anchor="end" dy="0.35em">3×10³</text>
+    <text x="23.38" y="14.61" text-anchor="end" dy="0.35em">4×10³</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5125e1e6-13">
+    <text x="8.81" y="45.46" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 47.46)">count_sum</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5125e1e6-14">
+    <text x="85.89" y="10.61" text-anchor="middle">充卡次数 ~ 周几</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-5125e1e6-4">
+  <path d="M24.38,12.61 L 147.4 12.61 147.4 82.32 24.38 82.32" />
+</clipPath>
+</defs>
+</svg>

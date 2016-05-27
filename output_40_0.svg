@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-e950fd72-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-e950fd72-2">
+    <text x="82.08" y="89.99" text-anchor="middle" dy="0.6em">amount</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-e950fd72-3">
+    <text x="31.28" y="83.32" text-anchor="middle" dy="0.6em">10.0</text>
+    <text x="45.8" y="83.32" text-anchor="middle" dy="0.6em">20.0</text>
+    <text x="60.31" y="83.32" text-anchor="middle" dy="0.6em">30.0</text>
+    <text x="74.83" y="83.32" text-anchor="middle" dy="0.6em">50.0</text>
+    <text x="89.34" y="83.32" text-anchor="middle" dy="0.6em">60.0</text>
+    <text x="103.86" y="83.32" text-anchor="middle" dy="0.6em">90.0</text>
+    <text x="118.37" y="83.32" text-anchor="middle" dy="0.6em">100.0</text>
+    <text x="132.89" y="83.32" text-anchor="middle" dy="0.6em">300.0</text>
+  </g>
+<g clip-path="url(#img-e950fd72-4)">
+  <g id="img-e950fd72-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-e950fd72-6">
+      <rect x="16.77" y="12.61" width="130.63" height="69.7"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-e950fd72-7">
+      <path fill="none" d="M16.77,80.32 L 147.4 80.32"/>
+      <path fill="none" d="M16.77,63.89 L 147.4 63.89"/>
+      <path fill="none" d="M16.77,47.46 L 147.4 47.46"/>
+      <path fill="none" d="M16.77,31.04 L 147.4 31.04"/>
+      <path fill="none" d="M16.77,14.61 L 147.4 14.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-e950fd72-8">
+      <path fill="none" d="M38.54,12.61 L 38.54 82.32"/>
+      <path fill="none" d="M53.05,12.61 L 53.05 82.32"/>
+      <path fill="none" d="M67.57,12.61 L 67.57 82.32"/>
+      <path fill="none" d="M82.08,12.61 L 82.08 82.32"/>
+      <path fill="none" d="M96.6,12.61 L 96.6 82.32"/>
+      <path fill="none" d="M111.11,12.61 L 111.11 82.32"/>
+      <path fill="none" d="M125.63,12.61 L 125.63 82.32"/>
+    </g>
+    <g class="plotpanel" id="img-e950fd72-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-e950fd72-10">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#00BFFF" class="geometry" id="img-e950fd72-11">
+          <rect x="25.02" y="80.22" width="12.51" height="0.1"/>
+          <rect x="39.54" y="80.3" width="12.51" height="0.02"/>
+          <rect x="54.05" y="20.98" width="12.51" height="59.33"/>
+          <rect x="68.57" y="80.07" width="12.51" height="0.25"/>
+          <rect x="83.08" y="79.79" width="12.51" height="0.53"/>
+          <rect x="97.6" y="80.2" width="12.51" height="0.11"/>
+          <rect x="112.11" y="80.25" width="12.51" height="0.07"/>
+          <rect x="126.63" y="80.3" width="12.51" height="0.02"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-e950fd72-12">
+    <text x="15.77" y="80.32" text-anchor="end" dy="0.35em">0</text>
+    <text x="15.77" y="63.89" text-anchor="end" dy="0.35em">1×10³</text>
+    <text x="15.77" y="47.46" text-anchor="end" dy="0.35em">2×10³</text>
+    <text x="15.77" y="31.04" text-anchor="end" dy="0.35em">3×10³</text>
+    <text x="15.77" y="14.61" text-anchor="end" dy="0.35em">4×10³</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-e950fd72-13">
+    <text x="82.08" y="10.61" text-anchor="middle">单次交网费金额</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-e950fd72-4">
+  <path d="M16.77,12.61 L 147.4 12.61 147.4 82.32 16.77 82.32" />
+</clipPath>
+</defs>
+</svg>

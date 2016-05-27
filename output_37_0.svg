@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-c5e26877-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-c5e26877-2">
+    <text x="73.35" y="89.99" text-anchor="middle" dy="0.6em">amount</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-c5e26877-3">
+    <text x="14.69" y="83.32" text-anchor="middle" dy="0.6em">0</text>
+    <text x="38.15" y="83.32" text-anchor="middle" dy="0.6em">10</text>
+    <text x="61.62" y="83.32" text-anchor="middle" dy="0.6em">20</text>
+    <text x="85.08" y="83.32" text-anchor="middle" dy="0.6em">30</text>
+    <text x="108.54" y="83.32" text-anchor="middle" dy="0.6em">40</text>
+    <text x="132" y="83.32" text-anchor="middle" dy="0.6em">50</text>
+  </g>
+  <g class="guide colorkey" id="img-c5e26877-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-c5e26877-5">
+      <text x="137.81" y="47.46" dy="0.35em" id="img-c5e26877-6" class="color_mall">mall</text>
+      <text x="137.81" y="51.09" dy="0.35em" id="img-c5e26877-7" class="color_shop">shop</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-c5e26877-8">
+      <rect x="135" y="46.56" width="1.81" height="1.81" id="img-c5e26877-9" class="color_mall" fill="#00BFFF"/>
+      <rect x="135" y="50.18" width="1.81" height="1.81" id="img-c5e26877-10" class="color_shop" fill="#D4CA3A"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-c5e26877-11">
+      <text x="135" y="43.64" id="img-c5e26877-12">position</text>
+    </g>
+  </g>
+<g clip-path="url(#img-c5e26877-13)">
+  <g id="img-c5e26877-14">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-c5e26877-15">
+      <rect x="12.69" y="12.61" width="121.3" height="69.7" id="img-c5e26877-16"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-c5e26877-17">
+      <path fill="none" d="M12.69,80.32 L 134 80.32" id="img-c5e26877-18"/>
+      <path fill="none" d="M12.69,58.41 L 134 58.41" id="img-c5e26877-19"/>
+      <path fill="none" d="M12.69,36.51 L 134 36.51" id="img-c5e26877-20"/>
+      <path fill="none" d="M12.69,14.61 L 134 14.61" id="img-c5e26877-21"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-c5e26877-22">
+      <path fill="none" d="M14.69,12.61 L 14.69 82.32" id="img-c5e26877-23"/>
+      <path fill="none" d="M38.15,12.61 L 38.15 82.32" id="img-c5e26877-24"/>
+      <path fill="none" d="M61.62,12.61 L 61.62 82.32" id="img-c5e26877-25"/>
+      <path fill="none" d="M85.08,12.61 L 85.08 82.32" id="img-c5e26877-26"/>
+      <path fill="none" d="M108.54,12.61 L 108.54 82.32" id="img-c5e26877-27"/>
+      <path fill="none" d="M132,12.61 L 132 82.32" id="img-c5e26877-28"/>
+    </g>
+    <g class="plotpanel" id="img-c5e26877-29">
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" stroke-dasharray="none" id="img-c5e26877-30">
+        <path fill="none" d="M16.22,42.43 L 19.22 38.17 22.22 34.81 25.23 38.07 28.23 44.97 31.23 58.77 34.24 61.8 37.24 60.05 40.24 69.65 43.25 71.05 46.25 71.62 49.25 73.21 52.25 74.35 55.26 75.04 58.26 75.8 61.26 76.24 64.27 77.36 67.27 77.44 70.27 78.17 73.28 78.23 76.28 78.59 79.28 78.65 82.28 78.96 85.29 78.94 88.29 79.45 91.29 79.57 94.3 79.33 97.3 79.65 100.3 79.81 103.31 79.94 106.31 79.68 109.31 79.88 112.31 79.9 115.32 80.1 118.32 79.99 121.32 80.05 124.33 80.13 127.33 80.11 130.33 80.08" id="img-c5e26877-31" class="geometry color_mall" stroke="#00BFFF"/>
+        <path fill="none" d="M16.22,46.83 L 19.22 31.2 22.22 15.08 25.23 25.92 28.23 40.98 31.23 52.62 34.24 61.28 37.24 65.62 40.24 69.88 43.25 72.91 46.25 74.83 49.25 76.28 52.25 77.11 55.26 78.52 58.26 78.85 61.26 79.02 64.27 79.64 67.27 79.46 70.27 79.88 73.28 79.78 76.28 79.91 79.28 79.96 82.28 80.19 85.29 80.19 88.29 80.21 91.29 80.25 94.3 80.25 97.3 80.29 100.3 80.23 103.31 80.28 106.31 80.26 109.31 80.25 112.31 80.3 115.32 80.3 118.32 80.32 121.32 80.31 124.33 80.31 127.33 80.31 130.33 80.32" id="img-c5e26877-32" class="geometry color_shop" stroke="#D4CA3A"/>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-c5e26877-33">
+    <text x="11.69" y="80.32" text-anchor="end" dy="0.35em" id="img-c5e26877-34">0.00</text>
+    <text x="11.69" y="58.41" text-anchor="end" dy="0.35em" id="img-c5e26877-35">0.05</text>
+    <text x="11.69" y="36.51" text-anchor="end" dy="0.35em" id="img-c5e26877-36">0.10</text>
+    <text x="11.69" y="14.61" text-anchor="end" dy="0.35em" id="img-c5e26877-37">0.15</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-c5e26877-38">
+    <text x="73.35" y="10.61" text-anchor="middle" id="img-c5e26877-39">超市/公寓便利店单次消费分布</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-c5e26877-13">
+  <path d="M12.69,12.61 L 134 12.61 134 82.32 12.69 82.32" />
+</clipPath>
+</defs>
+</svg>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-2de9384d-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-2de9384d-2">
+    <text x="80.05" y="89.99" text-anchor="middle" dy="0.6em">time</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-2de9384d-3">
+    <text x="14.69" y="83.32" text-anchor="middle" dy="0.6em">5</text>
+    <text x="22.86" y="83.32" text-anchor="middle" dy="0.6em">6</text>
+    <text x="31.03" y="83.32" text-anchor="middle" dy="0.6em">7</text>
+    <text x="39.2" y="83.32" text-anchor="middle" dy="0.6em">8</text>
+    <text x="47.37" y="83.32" text-anchor="middle" dy="0.6em">9</text>
+    <text x="55.54" y="83.32" text-anchor="middle" dy="0.6em">10</text>
+    <text x="63.71" y="83.32" text-anchor="middle" dy="0.6em">11</text>
+    <text x="71.88" y="83.32" text-anchor="middle" dy="0.6em">12</text>
+    <text x="80.05" y="83.32" text-anchor="middle" dy="0.6em">13</text>
+    <text x="88.22" y="83.32" text-anchor="middle" dy="0.6em">14</text>
+    <text x="96.38" y="83.32" text-anchor="middle" dy="0.6em">15</text>
+    <text x="104.55" y="83.32" text-anchor="middle" dy="0.6em">16</text>
+    <text x="112.72" y="83.32" text-anchor="middle" dy="0.6em">17</text>
+    <text x="120.89" y="83.32" text-anchor="middle" dy="0.6em">18</text>
+    <text x="129.06" y="83.32" text-anchor="middle" dy="0.6em">19</text>
+    <text x="137.23" y="83.32" text-anchor="middle" dy="0.6em">20</text>
+    <text x="145.4" y="83.32" text-anchor="middle" dy="0.6em">21</text>
+  </g>
+<g clip-path="url(#img-2de9384d-4)">
+  <g id="img-2de9384d-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-2de9384d-6">
+      <rect x="12.69" y="12.61" width="134.71" height="69.7"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-2de9384d-7">
+      <path fill="none" d="M12.69,80.32 L 147.4 80.32"/>
+      <path fill="none" d="M12.69,58.41 L 147.4 58.41"/>
+      <path fill="none" d="M12.69,36.51 L 147.4 36.51"/>
+      <path fill="none" d="M12.69,14.61 L 147.4 14.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-2de9384d-8">
+      <path fill="none" d="M14.69,12.61 L 14.69 82.32"/>
+      <path fill="none" d="M22.86,12.61 L 22.86 82.32"/>
+      <path fill="none" d="M31.03,12.61 L 31.03 82.32"/>
+      <path fill="none" d="M39.2,12.61 L 39.2 82.32"/>
+      <path fill="none" d="M47.37,12.61 L 47.37 82.32"/>
+      <path fill="none" d="M55.54,12.61 L 55.54 82.32"/>
+      <path fill="none" d="M63.71,12.61 L 63.71 82.32"/>
+      <path fill="none" d="M71.88,12.61 L 71.88 82.32"/>
+      <path fill="none" d="M80.05,12.61 L 80.05 82.32"/>
+      <path fill="none" d="M88.22,12.61 L 88.22 82.32"/>
+      <path fill="none" d="M96.38,12.61 L 96.38 82.32"/>
+      <path fill="none" d="M104.55,12.61 L 104.55 82.32"/>
+      <path fill="none" d="M112.72,12.61 L 112.72 82.32"/>
+      <path fill="none" d="M120.89,12.61 L 120.89 82.32"/>
+      <path fill="none" d="M129.06,12.61 L 129.06 82.32"/>
+      <path fill="none" d="M137.23,12.61 L 137.23 82.32"/>
+      <path fill="none" d="M145.4,12.61 L 145.4 82.32"/>
+    </g>
+    <g class="plotpanel" id="img-2de9384d-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-2de9384d-10">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#00BFFF" class="geometry" id="img-2de9384d-11">
+          <rect x="14.67" y="79.06" width="8.22" height="1.26"/>
+          <rect x="22.84" y="42.65" width="8.22" height="37.67"/>
+          <rect x="31.01" y="80.32" width="8.22" height="0.01"/>
+          <rect x="39.18" y="76.23" width="8.22" height="4.08"/>
+          <rect x="47.34" y="42.65" width="8.22" height="37.67"/>
+          <rect x="55.51" y="48.3" width="8.22" height="32.02"/>
+          <rect x="63.68" y="57.87" width="8.22" height="22.44"/>
+          <rect x="71.85" y="60.85" width="8.22" height="19.46"/>
+          <rect x="80.02" y="52.54" width="8.22" height="27.78"/>
+          <rect x="88.19" y="33.86" width="8.22" height="46.45"/>
+          <rect x="96.36" y="30.41" width="8.22" height="49.91"/>
+          <rect x="104.53" y="36.69" width="8.22" height="43.63"/>
+          <rect x="112.7" y="52.22" width="8.22" height="28.09"/>
+          <rect x="120.87" y="19.42" width="8.22" height="60.89"/>
+          <rect x="129.04" y="53.79" width="8.22" height="26.52"/>
+          <rect x="137.21" y="80.16" width="8.22" height="0.16"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-2de9384d-12">
+    <text x="11.69" y="80.32" text-anchor="end" dy="0.35em">0.00</text>
+    <text x="11.69" y="58.41" text-anchor="end" dy="0.35em">0.05</text>
+    <text x="11.69" y="36.51" text-anchor="end" dy="0.35em">0.10</text>
+    <text x="11.69" y="14.61" text-anchor="end" dy="0.35em">0.15</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-2de9384d-13">
+    <text x="80.05" y="10.61" text-anchor="middle">一天中不同时段锻炼次数</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-2de9384d-4">
+  <path d="M12.69,12.61 L 147.4 12.61 147.4 82.32 12.69 82.32" />
+</clipPath>
+</defs>
+</svg>

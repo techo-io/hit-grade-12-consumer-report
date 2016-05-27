@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-0858a7a2-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-0858a7a2-2">
+    <text x="83.52" y="89.99" text-anchor="middle" dy="0.6em">dayofweek</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-0858a7a2-3">
+    <text x="30.47" y="83.32" text-anchor="middle" dy="0.6em">Mon</text>
+    <text x="48.15" y="83.32" text-anchor="middle" dy="0.6em">Tue</text>
+    <text x="65.83" y="83.32" text-anchor="middle" dy="0.6em">Wed</text>
+    <text x="83.52" y="83.32" text-anchor="middle" dy="0.6em">Thu</text>
+    <text x="101.2" y="83.32" text-anchor="middle" dy="0.6em">Fri</text>
+    <text x="118.88" y="83.32" text-anchor="middle" dy="0.6em">Sat</text>
+    <text x="136.56" y="83.32" text-anchor="middle" dy="0.6em">Sun</text>
+  </g>
+<g clip-path="url(#img-0858a7a2-4)">
+  <g id="img-0858a7a2-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-0858a7a2-6">
+      <rect x="19.63" y="12.61" width="127.77" height="69.7"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-0858a7a2-7">
+      <path fill="none" d="M19.63,80.32 L 147.4 80.32"/>
+      <path fill="none" d="M19.63,67.17 L 147.4 67.17"/>
+      <path fill="none" d="M19.63,54.03 L 147.4 54.03"/>
+      <path fill="none" d="M19.63,40.89 L 147.4 40.89"/>
+      <path fill="none" d="M19.63,27.75 L 147.4 27.75"/>
+      <path fill="none" d="M19.63,14.61 L 147.4 14.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-0858a7a2-8">
+      <path fill="none" d="M30.47,12.61 L 30.47 82.32"/>
+      <path fill="none" d="M48.15,12.61 L 48.15 82.32"/>
+      <path fill="none" d="M65.83,12.61 L 65.83 82.32"/>
+      <path fill="none" d="M83.52,12.61 L 83.52 82.32"/>
+      <path fill="none" d="M101.2,12.61 L 101.2 82.32"/>
+      <path fill="none" d="M118.88,12.61 L 118.88 82.32"/>
+      <path fill="none" d="M136.56,12.61 L 136.56 82.32"/>
+    </g>
+    <g class="plotpanel" id="img-0858a7a2-9">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-0858a7a2-10">
+        <g stroke="#000000" stroke-opacity="0.000" fill="#00BFFF" class="geometry" id="img-0858a7a2-11">
+          <rect x="22.63" y="25.91" width="15.68" height="54.4"/>
+          <rect x="57.99" y="20.66" width="15.68" height="59.66"/>
+          <rect x="40.31" y="19.61" width="15.68" height="60.71"/>
+          <rect x="75.68" y="17.9" width="15.68" height="62.42"/>
+          <rect x="128.72" y="42.86" width="15.68" height="37.45"/>
+          <rect x="93.36" y="29.59" width="15.68" height="50.72"/>
+          <rect x="111.04" y="38.92" width="15.68" height="41.39"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-0858a7a2-12">
+    <text x="18.63" y="80.32" text-anchor="end" dy="0.35em">0</text>
+    <text x="18.63" y="67.17" text-anchor="end" dy="0.35em">100</text>
+    <text x="18.63" y="54.03" text-anchor="end" dy="0.35em">200</text>
+    <text x="18.63" y="40.89" text-anchor="end" dy="0.35em">300</text>
+    <text x="18.63" y="27.75" text-anchor="end" dy="0.35em">400</text>
+    <text x="18.63" y="14.61" text-anchor="end" dy="0.35em">500</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-0858a7a2-13">
+    <text x="8.81" y="45.46" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 47.46)">count_sum</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-0858a7a2-14">
+    <text x="83.52" y="10.61" text-anchor="middle">锻炼次数 ~ 周几</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-0858a7a2-4">
+  <path d="M19.63,12.61 L 147.4 12.61 147.4 82.32 19.63 82.32" />
+</clipPath>
+</defs>
+</svg>

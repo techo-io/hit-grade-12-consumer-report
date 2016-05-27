@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="152.4mm" height="101.6mm" viewBox="0 0 152.4 101.6"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-082a66f2-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-082a66f2-2">
+    <text x="78.42" y="89.99" text-anchor="middle" dy="0.6em">position</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-082a66f2-3">
+    <text x="31.13" y="83.32" text-anchor="middle" dy="0.6em">学苑</text>
+    <text x="44.64" y="83.32" text-anchor="middle" dy="0.6em">学士</text>
+    <text x="58.16" y="83.32" text-anchor="middle" dy="0.6em">天香</text>
+    <text x="71.67" y="83.32" text-anchor="middle" dy="0.6em">清泽</text>
+    <text x="85.18" y="83.32" text-anchor="middle" dy="0.6em">锦绣</text>
+    <text x="98.69" y="83.32" text-anchor="middle" dy="0.6em">黑店</text>
+    <text x="112.2" y="83.32" text-anchor="middle" dy="0.6em">饺子园</text>
+    <text x="125.71" y="83.32" text-anchor="middle" dy="0.6em">土木</text>
+  </g>
+  <g class="guide colorkey" id="img-082a66f2-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-082a66f2-5">
+      <text x="136.28" y="45.65" dy="0.35em" id="img-082a66f2-6" class="color_lunch">lunch</text>
+      <text x="136.28" y="49.28" dy="0.35em" id="img-082a66f2-7" class="color_breakfast">breakfast</text>
+      <text x="136.28" y="52.9" dy="0.35em" id="img-082a66f2-8" class="color_dinner">dinner</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-082a66f2-9">
+      <rect x="133.47" y="44.74" width="1.81" height="1.81" id="img-082a66f2-10" class="color_lunch" fill="#00BFFF"/>
+      <rect x="133.47" y="48.37" width="1.81" height="1.81" id="img-082a66f2-11" class="color_breakfast" fill="#D4CA3A"/>
+      <rect x="133.47" y="52" width="1.81" height="1.81" id="img-082a66f2-12" class="color_dinner" fill="#FF6DAE"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-082a66f2-13">
+      <text x="133.47" y="41.83" id="img-082a66f2-14">time</text>
+    </g>
+  </g>
+<g clip-path="url(#img-082a66f2-15)">
+  <g id="img-082a66f2-16">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-082a66f2-17">
+      <rect x="24.38" y="12.61" width="108.09" height="69.7" id="img-082a66f2-18"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-082a66f2-19">
+      <path fill="none" d="M24.38,80.32 L 132.47 80.32" id="img-082a66f2-20"/>
+      <path fill="none" d="M24.38,58.41 L 132.47 58.41" id="img-082a66f2-21"/>
+      <path fill="none" d="M24.38,36.51 L 132.47 36.51" id="img-082a66f2-22"/>
+      <path fill="none" d="M24.38,14.61 L 132.47 14.61" id="img-082a66f2-23"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-082a66f2-24">
+      <path fill="none" d="M37.89,12.61 L 37.89 82.32" id="img-082a66f2-25"/>
+      <path fill="none" d="M51.4,12.61 L 51.4 82.32" id="img-082a66f2-26"/>
+      <path fill="none" d="M64.91,12.61 L 64.91 82.32" id="img-082a66f2-27"/>
+      <path fill="none" d="M78.42,12.61 L 78.42 82.32" id="img-082a66f2-28"/>
+      <path fill="none" d="M91.93,12.61 L 91.93 82.32" id="img-082a66f2-29"/>
+      <path fill="none" d="M105.44,12.61 L 105.44 82.32" id="img-082a66f2-30"/>
+      <path fill="none" d="M118.96,12.61 L 118.96 82.32" id="img-082a66f2-31"/>
+    </g>
+    <g class="plotpanel" id="img-082a66f2-32">
+      <g shape-rendering="crispEdges" stroke-width="0.3" id="img-082a66f2-33">
+        <g stroke="#000000" stroke-opacity="0.000" class="geometry" id="img-082a66f2-34">
+          <rect x="25.38" y="31.28" width="3.84" height="49.03" id="img-082a66f2-35" fill="#FF6DAE"/>
+          <rect x="38.89" y="36.65" width="3.84" height="43.66" id="img-082a66f2-36" fill="#FF6DAE"/>
+          <rect x="52.4" y="65.31" width="3.84" height="15.01" id="img-082a66f2-37" fill="#FF6DAE"/>
+          <rect x="65.91" y="75.24" width="3.84" height="5.08" id="img-082a66f2-38" fill="#FF6DAE"/>
+          <rect x="79.42" y="77.38" width="3.84" height="2.93" id="img-082a66f2-39" fill="#FF6DAE"/>
+          <rect x="92.93" y="45.56" width="3.84" height="34.75" id="img-082a66f2-40" fill="#FF6DAE"/>
+          <rect x="106.44" y="76.58" width="3.84" height="3.74" id="img-082a66f2-41" fill="#FF6DAE"/>
+          <rect x="119.96" y="77.22" width="3.84" height="3.1" id="img-082a66f2-42" fill="#FF6DAE"/>
+          <rect x="29.88" y="71.27" width="3.84" height="9.05" id="img-082a66f2-43" fill="#D4CA3A"/>
+          <rect x="43.39" y="15.56" width="3.84" height="64.75" id="img-082a66f2-44" fill="#D4CA3A"/>
+          <rect x="56.9" y="75.98" width="3.84" height="4.33" id="img-082a66f2-45" fill="#D4CA3A"/>
+          <rect x="70.42" y="77.49" width="3.84" height="2.83" id="img-082a66f2-46" fill="#D4CA3A"/>
+          <rect x="83.93" y="79.37" width="3.84" height="0.94" id="img-082a66f2-47" fill="#D4CA3A"/>
+          <rect x="97.44" y="74.61" width="3.84" height="5.71" id="img-082a66f2-48" fill="#D4CA3A"/>
+          <rect x="110.95" y="80.31" width="3.84" height="0.01" id="img-082a66f2-49" fill="#D4CA3A"/>
+          <rect x="124.46" y="78.24" width="3.84" height="2.07" id="img-082a66f2-50" fill="#D4CA3A"/>
+          <rect x="34.39" y="21.11" width="3.84" height="59.2" id="img-082a66f2-51" fill="#00BFFF"/>
+          <rect x="47.9" y="30.03" width="3.84" height="50.29" id="img-082a66f2-52" fill="#00BFFF"/>
+          <rect x="61.41" y="59.66" width="3.84" height="20.66" id="img-082a66f2-53" fill="#00BFFF"/>
+          <rect x="74.92" y="74.59" width="3.84" height="5.72" id="img-082a66f2-54" fill="#00BFFF"/>
+          <rect x="88.43" y="76.29" width="3.84" height="4.03" id="img-082a66f2-55" fill="#00BFFF"/>
+          <rect x="101.94" y="46.29" width="3.84" height="34.03" id="img-082a66f2-56" fill="#00BFFF"/>
+          <rect x="115.45" y="75.79" width="3.84" height="4.52" id="img-082a66f2-57" fill="#00BFFF"/>
+          <rect x="128.96" y="74.71" width="3.84" height="5.6" id="img-082a66f2-58" fill="#00BFFF"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-082a66f2-59">
+    <text x="23.38" y="80.32" text-anchor="end" dy="0.35em" id="img-082a66f2-60">0</text>
+    <text x="23.38" y="58.41" text-anchor="end" dy="0.35em" id="img-082a66f2-61">1×10⁴</text>
+    <text x="23.38" y="36.51" text-anchor="end" dy="0.35em" id="img-082a66f2-62">2×10⁴</text>
+    <text x="23.38" y="14.61" text-anchor="end" dy="0.35em" id="img-082a66f2-63">3×10⁴</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-082a66f2-64">
+    <text x="8.81" y="45.46" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 47.46)" id="img-082a66f2-65">count_sum</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-082a66f2-66">
+    <text x="78.42" y="10.61" text-anchor="middle" id="img-082a66f2-67">各餐食堂分布</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-082a66f2-15">
+  <path d="M24.38,12.61 L 132.47 12.61 132.47 82.32 24.38 82.32" />
+</clipPath>
+</defs>
+</svg>
