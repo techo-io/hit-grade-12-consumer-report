@@ -7,8 +7,8 @@ File naming convention is *Name*-[F/M]-*Department*-*Student ID*_*Start Date*-*E
 
 # Creadits
 
-Joint research by [AustinChou](https://github.com/AustinChou) and [ylxdzsw](https://github.com/ylxdzsw).
+Joint research by [EvianZhow](https://github.com/EvianZhow) and [ylxdzsw](https://github.com/ylxdzsw).
 
-# By-projects
+# By-products
 
-- [watch-your-m0n1y](https://github.com/AustinChou/watch-your-m0n1y)
+- [watch-your-m0n1y](https://github.com/techo-io/watch-your-m0n1y)
